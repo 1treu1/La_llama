@@ -3,6 +3,7 @@ The code makes a PID control to control a follower robot, using Arduino as embed
 # Instalación:
 * Download Arduino IDE: https://www.arduino.cc/en/software
 * Replace motor pins and start button
+* Instalar `<Servo.h>`
 ``` ruby
 #define moti                    6                       //Pin del motor izquierdo.
 #define motd                    9                       // Pin del motor derecho.
